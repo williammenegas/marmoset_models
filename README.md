@@ -1,4 +1,7 @@
 # marmoset_models
+
+Note: code and data will be released upon publication.
+
 Code for Menegas et al. (2024) 
 
 Data and code related to marmoset models of neuropsychiatric disorders. 
